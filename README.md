@@ -13,6 +13,43 @@ Notes taken from: https://dreams.ucsc.edu/Library/fmid2.html
 
 All the scales in the Hall/Van de Castle system are nominal ones. They assign no ranks or weights. Instead, various discrete categories are compared as equal and aggregate discrete categories for overall scores.
 
+
+Dream scientists determined that the three categories of characters, social interactions and emotions are the most valuable ones [[59](https://royalsocietypublishing.org/doi/10.1098/rsos.192080#RSOS192080C59)] and are usually more informative than all the remaining ones combined. In this work, to test our five hypotheses, we focused on coding each dream report along measures that reflect these three categories ([table 1](https://royalsocietypublishing.org/doi/10.1098/rsos.192080#RSOS192080TB1)).
+
+(i)
+
+_Characters._  People, animals and imaginary figures who appear in the dream report. In addition to determining characters’ types, we classified their gender and whether they were dead.
+
+-   _Male%._  The number of male characters divided by the sum of male and female characters.
+    
+-   _Animals%._  The number of animal characters divided by the number of all characters.
+    
+-   _Imaginary%._  The number of fictional or dead characters divided by the number of all characters.
+    
+
+(ii)
+
+_Interactions._  Interactions among characters of three types: friendly, sexual and aggressive.
+
+-   _F/C index._  The number of friendly interactions divided by the total number of characters.
+    
+-   _S/C index._  The number of sexual interactions divided by the total number of characters.
+    
+-   _A/C index._  The number of aggressive interactions divided by the total number of characters.
+    
+-   _Aggression._  The number of aggressive interactions divided by the total number of interactions.
+    
+-   _Aggression/friendliness._  The number of aggressive interactions divided by the total number of friendly interactions.
+    
+
+(iii)
+
+_Emotions._  Markers of positive or negative emotions in the dream report.
+
+-   _Negative emotions%._  The ratio between the number of negative emotions and the total number of emotions expressed in the dream.
+
+
+
 # Total 10 categories
 
 —
@@ -306,36 +343,3 @@ Bodily Misfortunes Percent  =  (M5 + M6)  ÷  all misfortunes
 
 
 
-Dream scientists determined that the three categories of characters, social interactions and emotions are the most valuable ones [[59](https://royalsocietypublishing.org/doi/10.1098/rsos.192080#RSOS192080C59)] and are usually more informative than all the remaining ones combined. In this work, to test our five hypotheses, we focused on coding each dream report along measures that reflect these three categories ([table 1](https://royalsocietypublishing.org/doi/10.1098/rsos.192080#RSOS192080TB1)).
-
-(i)
-
-_Characters._  People, animals and imaginary figures who appear in the dream report. In addition to determining characters’ types, we classified their gender and whether they were dead.
-
--   _Male%._  The number of male characters divided by the sum of male and female characters.
-    
--   _Animals%._  The number of animal characters divided by the number of all characters.
-    
--   _Imaginary%._  The number of fictional or dead characters divided by the number of all characters.
-    
-
-(ii)
-
-_Interactions._  Interactions among characters of three types: friendly, sexual and aggressive.
-
--   _F/C index._  The number of friendly interactions divided by the total number of characters.
-    
--   _S/C index._  The number of sexual interactions divided by the total number of characters.
-    
--   _A/C index._  The number of aggressive interactions divided by the total number of characters.
-    
--   _Aggression._  The number of aggressive interactions divided by the total number of interactions.
-    
--   _Aggression/friendliness._  The number of aggressive interactions divided by the total number of friendly interactions.
-    
-
-(iii)
-
-_Emotions._  Markers of positive or negative emotions in the dream report.
-
--   _Negative emotions%._  The ratio between the number of negative emotions and the total number of emotions expressed in the dream.
