@@ -3,6 +3,7 @@ Using machine learning methods to automatically analysis contents of dream.
 
 One method to analysis dream content is to use the Hall/Van De Castle System. 
 
+Dataset collected by study : https://social-dynamics.net/docs/dreams.pdf.
 
 
 
